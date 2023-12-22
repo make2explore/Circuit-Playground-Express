@@ -5,7 +5,7 @@ Getting Started with Adafruit Circuit Playground Express Development Board
 <img src="/Images/CPX-thumb.jpg" height="250" >  
 
   
-**Interfacing OLED Display with Raspberry Pi Pico**  
+**Getting Started with Adafruit Circuit Playground Express Development Board**  
   
 Components Required :  
 - Adafruit Circuit Playground Express Development Board  
@@ -41,14 +41,14 @@ Software Required :
 🌐 Adafruit Circuit Playground Express - 🔗 https://learn.adafruit.com/adafruit-circuit-playground-express/overview  
 📙 CircuitPython Website 🔗 https://circuitpython.org/  
 📘 Mu Python Editor 🔗 https://codewith.mu/  
-📗 Code Downloading and Flashing  🔗 https://learn.adafruit.com/adafruit-circuit-playground-express/downloading-and-flashing    
+📗 Programming  🔗 https://learn.adafruit.com/adafruit-circuit-playground-express/downloading-and-flashing    
 📒 MakeCode 🔗 https://makecode.adafruit.com/  
 
 -------------------------------------------------------------------------------------------
 
 🔴 **Purchase Links** -  
 
-🌐 Raspberry Pi Pico Product page - 🔗 https://www.adafruit.com/product/3333  
+🌐 Circuit Playground Express Product page - 🔗 https://www.adafruit.com/product/3333  
 
 
 -------------------------------------------------------------------------------------------
