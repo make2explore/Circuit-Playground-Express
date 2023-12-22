@@ -1,5 +1,5 @@
 # Circuit-Playground-Express
-Getting Started with Adafruit Circuit Playground Express Development Board
+
 
   
 <img src="/Images/CPX-thumb.jpg" height="250" >  
