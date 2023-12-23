@@ -33,7 +33,7 @@ Software Required :
 📕 **YouTube Video Links**  
 
 ▶️ [Device Overview] Adafruit Circuit Playground Express  -  
-🔗 https://youtu.be/  
+🔗 https://youtu.be/tHRV9FFY870  
 
 -------------------------------------------------------------------------------------------
 📒 **Important Links**  
