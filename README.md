@@ -2,7 +2,7 @@
 
 
   
-<img src="/Images/CPX-thumb.jpg" height="250" >  
+<img src="/Images/CPX-thumb2.jpg" height="250" >  
 
   
 **Getting Started with Adafruit Circuit Playground Express Development Board**  
